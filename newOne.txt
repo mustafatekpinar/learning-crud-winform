@@ -1,0 +1,1 @@
+ekleme silme ve güncelleme işlemlerinin hemen ardından dinamik bir yapı kazandırmak için bir methodun içerisine her işlemden sonra listeyi yeniden listeleyecek bir komut yazdım.

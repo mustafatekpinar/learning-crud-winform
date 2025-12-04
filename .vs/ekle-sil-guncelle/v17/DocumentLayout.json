@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHub\\ekle-sil-guncelle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|f:\\github\\ekle-sil-guncelle\\ekle-sil-guncelle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|solutionrelative:ekle-sil-guncelle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|solutionrelative:ekle-sil-guncelle\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|solutionrelative:ekle-sil-guncelle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|f:\\github\\ekle-sil-guncelle\\ekle-sil-guncelle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D62895-9F29-498F-BB81-32EA2582CEA1}|ekle-sil-guncelle\\ekle-sil-guncelle.csproj|solutionrelative:ekle-sil-guncelle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form2.cs",
+              "RelativeDocumentMoniker": "ekle-sil-guncelle\\Form2.cs",
+              "ToolTip": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form2.cs",
+              "RelativeToolTip": "ekle-sil-guncelle\\Form2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:53:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form1.cs",
+              "RelativeDocumentMoniker": "ekle-sil-guncelle\\Form1.cs",
+              "ToolTip": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form1.cs",
+              "RelativeToolTip": "ekle-sil-guncelle\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:52:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form1.cs",
+              "RelativeDocumentMoniker": "ekle-sil-guncelle\\Form1.cs",
+              "ToolTip": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ekle-sil-guncelle\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:52:49.607Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form2.cs",
+              "RelativeDocumentMoniker": "ekle-sil-guncelle\\Form2.cs",
+              "ToolTip": "F:\\GitHub\\ekle-sil-guncelle\\ekle-sil-guncelle\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ekle-sil-guncelle\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:52:49.608Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
